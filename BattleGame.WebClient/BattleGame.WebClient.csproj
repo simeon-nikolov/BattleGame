@@ -68,7 +68,6 @@
     <Content Include="Scripts\persister.js" />
     <Content Include="Scripts\ui.js" />
     <Content Include="Styles\style.css" />
-    <Content Include="test.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
