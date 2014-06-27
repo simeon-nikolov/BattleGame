@@ -1,0 +1,10 @@
+D:\Telerik\Battle-Game\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.dll
+D:\Telerik\Battle-Game\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.pdb
+D:\Telerik\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.csprojResolveAssemblyReference.cache
+D:\Telerik\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.dll
+D:\Telerik\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.pdb
+D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.dll
+D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.pdb
+D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.csprojResolveAssemblyReference.cache
+D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.dll
+D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.pdb

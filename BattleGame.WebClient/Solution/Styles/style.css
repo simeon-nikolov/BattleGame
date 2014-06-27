@@ -1,0 +1,168 @@
+﻿#wrapper {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 50px;
+    font: normal 14px Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+}
+
+    #wrapper > header {
+    }
+
+#user-nickname {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.button {
+    display: inline-block;
+    padding: 5px 15px;
+    border: 1px solid #444;
+    border-radius: 3px;
+    text-decoration: none;
+    color: black;
+    background-color: #ccc;
+}
+
+#open-games-container {
+    float: left;
+}
+
+#active-games-container {
+    float: right;
+}
+
+#content {
+    zoom: 1;
+}
+
+    #content:after {
+        clear: both;
+        display: block;
+        height: 0;
+        content: "";
+    }
+
+#create-game-holder {
+    display: inline-block;
+    text-align: right;
+}
+
+.button.selected {
+    font-weight: bold;
+}
+
+.game-list {
+    list-style-type: none;
+    display: inline-block;
+    text-align: left;
+}
+
+#active-games-container a, #open-games-container a {
+    color: #222;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    #active-games-container a:hover, #open-games-container a:hover {
+        text-decoration: underline;
+    }
+
+#active-games-container .full {
+    color: #bbb;
+}
+
+#game-state {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+    #game-state .guess-holder {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+#messages-container {
+    top: 0;
+    left: 0;
+    position: absolute;
+    float: left;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+    #messages-container #messages {
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+        border: 1px solid black;
+    }
+
+#highscore-container {
+    top: 0;
+    right: 0;
+    position: absolute;
+    float: right;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+    #highscore-container #highscore {
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+        border: 1px solid black;
+    }
+
+#active-games-container .in-progress {
+    color: #008e03;
+}
+
+#game-holder {
+    
+}
+
+#game-holder #game-field table {
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+}
+
+#game-holder #game-field table tr td {
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+}
+
+#game-holder #game-field table tr td div {
+    width: 50px;
+    height: 50px;
+    vertical-align: bottom;
+}
+
+#game-holder #game-field table tr td div.empty-cell {
+    background: #eeeeee;
+}
+
+#game-holder #game-field table tr td div a {
+    display: block;
+    pointer-events: none;
+    cursor: default;
+}
+
+#game-holder #game-field table tr td div.red-team {
+    background: red;
+    color: yellow;
+}
+
+#game-holder #game-field table tr td div.blue-team {
+    background: blue;
+}
