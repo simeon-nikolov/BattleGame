@@ -8,3 +8,9 @@ D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\Bat
 D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.csprojResolveAssemblyReference.cache
 D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.dll
 D:\Telerik\Archive - Old Courses\JavaScript приложения\Battle-Game\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.pdb
+D:\Projects\Visual Studio\Workspaces\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.dll.config
+D:\Projects\Visual Studio\Workspaces\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.dll
+D:\Projects\Visual Studio\Workspaces\BattleGame\BattleGame.WebClient\bin\BattleGame.WebClient.pdb
+D:\Projects\Visual Studio\Workspaces\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Workspaces\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.dll
+D:\Projects\Visual Studio\Workspaces\BattleGame\BattleGame.WebClient\obj\Debug\BattleGame.WebClient.pdb
