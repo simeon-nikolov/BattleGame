@@ -328,9 +328,17 @@
       <LastGenOutput>BattleGameModel.cs</LastGenOutput>
     </Content>
     <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="index.html" />
+    <Content Include="Scripts\class.js" />
+    <Content Include="Scripts\controller.js" />
+    <Content Include="Scripts\http-requester.js" />
     <Content Include="Scripts\jquery-1.8.2.js" />
     <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-2.0.2.min.map" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <None Include="Scripts\jquery-2.0.2.intellisense.js" />
+    <Content Include="Scripts\jquery-2.0.2.js" />
+    <Content Include="Scripts\jquery-2.0.2.min.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
@@ -342,6 +350,10 @@
     <Content Include="Scripts\knockout-2.2.0.debug.js" />
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\persister.js" />
+    <Content Include="Scripts\sha1.js" />
+    <Content Include="Scripts\ui.js" />
+    <Content Include="Styles\style.css" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

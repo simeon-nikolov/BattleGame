@@ -57,7 +57,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="game-ui-test.html" />
     <Content Include="index.html" />
     <Content Include="Scripts\class.js" />
     <Content Include="Scripts\controller.js" />
